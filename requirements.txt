@@ -1,0 +1,7 @@
+transformers
+streamlit
+pillow
+protobuf
+jinja2
+torch
+boto3
